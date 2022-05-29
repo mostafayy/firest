@@ -167,7 +167,7 @@ border:solid 1px #eb3300;
 const Place=styled.img`
 width: 120px;
 height: 120px;
-margin: 200px;
+margin: 200px; 
 
 `
 export default App;
