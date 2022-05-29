@@ -1,0 +1,12 @@
+*{
+
+
+width: 100%;
+height: 100%;
+flex-wrap: wrap;
+flex-flow: row wrap;
+display: grid;
+grid-template-columns: repeat(300px,1fr);
+align-items: flex-start;
+
+}
